@@ -1,0 +1,8 @@
+Alura/Gemini
+
+Engenharia de prompt
+Código limpo
+Estilizar o projeto com CSS;
+Aprender novas tags do HTML;
+Criar um arquivo com a lógica JavaScript;
+Ser introduzido ao JS.
